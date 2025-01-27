@@ -5,3 +5,6 @@ console.log(num);
 console.log("Hello Javascript");
 
 console.log("Hello JavaScript Testing the Git");
+
+
+console.log("Git Setup Completed");
